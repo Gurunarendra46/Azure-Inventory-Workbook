@@ -1,3 +1,6 @@
+https://www.cloudsma.com/ 
+Refer link automation and newly added to azure
+
 https://github.com/scautomation
 Refer above link for many
 
