@@ -1,3 +1,6 @@
+https://github.com/scautomation
+Refer above link for many
+
 # The Ultimate Azure Inventory Dashboard
 
 ## related blog post
